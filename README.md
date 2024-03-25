@@ -1,1 +1,1 @@
-# shaheer247-VeriTech-Web-Development-Internship-TASK-2
+# VeriTech-Web-Development-Internship-TASK-2
